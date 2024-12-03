@@ -1,5 +1,3 @@
-Let me break down this script's key components:
-
 1. **Input Processing**
    - The script reads input lines until it encounters an empty line
    - Each line (representing a sequence of numbers) is stored in `input_matrix`
